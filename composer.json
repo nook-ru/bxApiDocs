@@ -1,0 +1,22 @@
+{
+  "name": "nook-ru/bxApiDocs",
+  "description": "phpDoc for bitrix framework",
+  "license": "MIT",
+  "keywords": [
+    "bitrix",
+    "api",
+    "phpDoc",
+    "autocomplete",
+    "ide-helper"
+  ],
+  "support": {
+    "issues": "https://github.com/nook-ru/bxApiDocs/issues",
+    "source": "https://github.com/nook-ru/bxApiDocs"
+  },
+  "authors": [
+    {
+      "name": "Sergius",
+      "email": "matiaspub@gmail.com"
+    }
+  ]
+}
